@@ -163,3 +163,4 @@ config_backup.*
 # Test files with real data
 test_data_real/
 sample_data_real/
+.env
