@@ -1,6 +1,5 @@
 requests>=2.31.0
 pandas>=2.0.0
 python-dotenv>=1.0.0
-
-# Add openpyxl for Excel export
 openpyxl>=3.1.0
+tksheet>=6.2.0
